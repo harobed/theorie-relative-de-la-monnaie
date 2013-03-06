@@ -1,0 +1,6 @@
+.installed.cfg
+.~lock*
+bin/
+build/
+develop-eggs/
+
