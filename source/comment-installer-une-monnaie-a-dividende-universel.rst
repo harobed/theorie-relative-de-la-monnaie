@@ -10,9 +10,9 @@ Approche simple
 ===============
 
 La première approche consiste à installer un Dividende Universel initial
-supérieur au taux cible « c » qu'on laissera inchangé le temps que le taux de
-croissance de la masse monétaire atteigne « c ». A partir de ce moment-là, on
-augmente régulièrement le Dividende Universel suivant le taux  « c ». Cette
+supérieur au taux cible « c » qu'on laissera inchangé le temps que le taux de
+croissance de la masse monétaire atteigne « c ». A partir de ce moment-là, on
+augmente régulièrement le Dividende Universel suivant le taux  «c ». Cette
 approche est particulièrement adaptée au cas d'une monnaie préexistante qui mute
 en Dividende Universel.
 
@@ -20,7 +20,7 @@ Par exemple en zone euro cette approche pourrait être effectuée sur la base
 des minimas sociaux déjà installés, en regroupant l'ensemble des aides
 sociales au sein d'un guichet unique simplifié, et en intégrant dans les
 salaires préexistants la mention du Dividende Universel dans le brut
-salarial. Ce serait une « révolution immobile » qui consisterait
+salarial. Ce serait une « révolution immobile » qui consisterait
 essentiellement en la prise de conscience du Revenu de Base comme socle de
 toute activité économique libre basée sur l'individu souverain, prenant
 toute sa part dans le système monétaire.
@@ -34,7 +34,7 @@ Approche progressive, le cas Européen
 La deuxième approche consiste à allouer à chaque nouveau membre un crédit
 initial fixe associé à un Dividende Universel optimal dès le départ. Cette
 solution est particulièrement adaptée à la création d'une nouvelle monnaie au
-sein d'un SEL.	
+sein d'un SEL.
 
 L'Europe nous fournit un cas tout à fait intéressant de Dividende Universel
 tronqué. Tronqué parce qu'une grande partie de la zone Euro ne bénéficie pas

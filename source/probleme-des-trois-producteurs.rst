@@ -25,7 +25,12 @@ d'avoir, à tout instant, la possibilité d'échanger de façon convenable la
 production des uns et des autres, afin de satisfaire leurs besoins évolutifs
 respectifs.
 
-[image]
+.. figure:: images/probleme_des_trois_producteurs.png
+   :align: center
+   :width: 450px
+   
+   Pour une petite unité de temps «dt» les individus X Y et Z co-existent, 
+   produisent et échangent des valeurs stables.
 
 Donc, non seulement «dans l'espace» (pour un temps d'évolution court «dt») les
 valeurs ne sont pas communément reconnues par les producteurs et font pourtant
@@ -48,7 +53,11 @@ mathématique, sa quantité totale est limitée à tout instant. Le potentiel
 d'achat qu'elle recèle demeurera donc limité par les prix au delà desquels les
 producteurs ne pourraient pas échanger leurs productions par manque de monnaie.
 
-[image]
+.. figure:: images/probleme_des_trois_producteurs2.png
+   :align: center
+   :width: 450px
+
+   Le problème des trois producteurs se complique lorsqu'au bout d'un temps suffisamment long ils sont morts et remplacés
 
 Le problème est posé, nous allons maintenant balayer les solutions envisagées et
 les soucis qu'elles posent avant d'aborder la solution relativiste proprement

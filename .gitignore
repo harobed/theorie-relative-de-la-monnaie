@@ -3,4 +3,9 @@
 bin/
 build/
 develop-eggs/
-
+.Python
+TRM_2_718_b.odt
+include/
+lib/
+man/
+share/

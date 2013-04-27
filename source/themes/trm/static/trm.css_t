@@ -1,0 +1,123 @@
+BLOCKQUOTE.epigraph {
+    font: 14px/22px normal helvetica, sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding: 15px;
+    border-left: 3px solid #ccc;
+    background-color: #fafafa;
+} 
+
+BLOCKQUOTE.epigraph .attribution {
+    text-align: right;
+}
+
+.right {
+    text-align: right;
+}
+
+.top-navbar-fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: auto;
+    height: 40px;
+    margin: 0;
+    background-color: white;
+    z-index:99;
+}
+
+.top-navbar {
+    border-bottom: 1px solid black;
+    line-height: 40px;
+}
+
+.top-navbar > * {
+    background-color: white;
+}
+
+.top-navbar > .left A {
+    color: black;
+}
+
+.top-navbar > .right {
+    text-align: right;
+}
+
+.top-navbar > .right > DIV {
+    padding-right: 20px;
+}
+
+A.headerlink {
+    color: white;
+    padding: 0 4px;
+    text-decoration: none;
+    position: absolute;
+    top: 0;
+    right: -40px;
+    background: url("link_16.png") no-repeat scroll 0 0 transparent;
+    display: block;
+    height: 16px;
+    margin-top: -8px;
+    opacity: 0.1;
+    position: absolute;
+    top: 50%;
+    transition: opacity 0.5s linear 0s;
+    width: 16px;
+    visibility: visible;
+}
+ 
+H1:hover A.headerlink,
+H2:hover A.headerlink,
+H3:hover A.headerlink,
+H4:hover A.headerlink,
+H5:hover A.headerlink {
+    opacity: 1;
+}
+
+H1,
+H2,
+H3,
+H4,
+H5,
+H6 {
+    position: relative;
+}
+
+.book-title {
+    text-align: center;
+    margin: 80px 0;
+}
+
+.book-title H1 {
+    margin: 20px 0;
+}
+
+.footer > DIV > DIV {
+    font-size: 14px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer > DIV > DIV.right {
+    text-align: right;
+}
+
+P {
+    text-align:justify;
+    margin: 0 0 20px 0;
+}
+
+LI {
+    line-height: 30px;
+}
+
+DIV.figure {
+    text-align: center;
+}
+
+IMG.center {
+    margin: 20px auto;
+    display: block;
+}

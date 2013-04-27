@@ -131,4 +131,6 @@ offerte à la libre communauté des internautes est une invitation qui lui est
 adressée, dans un partage total d’idées créatives, pour imaginer, puis
 concrétiser un autre monde.
 
--- Yoland Bresson
+.. raw:: html
+
+   <div align="right">-- Yoland Bresson</div>

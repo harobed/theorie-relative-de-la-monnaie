@@ -6,8 +6,8 @@ Si on dit que X « s'endette » (bilan négatif) pour créditer Y, qui lui peu
 ensuite payer Z, qui paye enfin X, on a une solution partielle, qui crée un
 problème fondamental de symétrie.
 
-a) La symétrie spatiale n'est pas respectée
-===========================================
+La symétrie spatiale n'est pas respectée
+========================================
 
 Si c'est « X » qui possède le droit de s'endetter en premier, selon « Y » et
 « Z » il y a un gros problème d'équité. On peut rétorquer par ailleurs que la
@@ -16,8 +16,8 @@ d'émission monétaire pour circuler. Les échanges de valeur peuvent et doivent
 mettre en route indépendamment de tout point spécifique, sous peine de bloquer
 une sous-partie de l'économie (ici les échanges entre Y et Z).
 
-b) La symétrie temporelle n'est pas respectée
-=============================================
+La symétrie temporelle n'est pas respectée
+==========================================
 
 Même en imaginant que X, Y et Z se créditent initialement tous en même temps
 d'une quantité fixée de monnaie, qu'en est-il pour A, B et C qui arriveront
@@ -27,8 +27,8 @@ totalement différents de ceux de X, Y et Z, n'ont pas à souffrir non plus d'un
 excessivement concentrée ici ou là (ou même ayant fui hors de la zone économique
 locale), bloquant aussi leurs échanges sans raison valable de leur point de vue.
 
-c) L'asservissement par l'intérêt manquant
-==========================================
+L'asservissement par l'intérêt manquant
+=======================================
 
 Une démonstration algorithmique éclaire le fait qu'une monnaie dette à émission
 asymétrique suffit, si on en respecte le principe à la lettre, à assurer
@@ -109,8 +109,8 @@ faut alors pas s'étonner du chaos final dans lequel cette fausse logique, ce
 principe inacceptable, peut amener les hommes.
 
 
-d) Conclusion
-=============
+Conclusion
+==========
 
 Cette « solution » n'en est donc pas une. Elle est à bannir, car elle ne
 respecte pas la symétrie et l'égalité des référentiels devant la solution

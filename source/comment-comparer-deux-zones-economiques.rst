@@ -51,11 +51,11 @@ d'aucune sorte d'arbitraire, et est parfaitement mesurable.
 Application numérique :
 =======================
 
-.. math::
+math::
 
-   Ua(USA)=15 000/0,31 = 48 387 $/citoyen
+   Ua (USA) = 15000/0,31 = 48387 $/citoyen
 
-   Ub (Europe)=10 000/0,330=30 303 €/citoyen
+   Ub (Europe) = 10000/0,330 = 30303 €/citoyen
 
 Taux de change relatif T (€ / $) = 1,60 $/€
 

@@ -1,0 +1,77 @@
+{%- extends "basic/layout.html" %}
+{%- block htmltitle %}
+  {{ super() }}
+  <link media="screen" href="{{ pathto('_static/bootstrap.css', 1) }}" type= "text/css" rel="stylesheet" />
+{% endblock %}
+{% block relbar1 %}{% endblock %}
+{% block relbar2 %}{% endblock %}
+{%- block content %}
+<div class="top-navbar-fixed">
+    <div class="container">
+        <div class="row top-navbar">
+            <div class="span6 left">
+                Livre « <a href="index.html">Théorie Relative de la Monnaie v2.718</a> »
+            </div><!-- span6 -->
+            <div class="span4 right"><div>
+    <a href="index.html">sommaire</a> |
+    {%- if prev %}
+    <a 
+        href="{{ prev.link|e }}" 
+        title="{{ _('previous chapter') }}"
+        >précédent</a>
+    {%- endif %}
+    {%- if prev and next %}
+    |
+    {%- endif %}
+    {%- if next %}
+    <a 
+        href="{{ next.link|e }}" 
+        title="{{ _('next chapter') }}"
+        >suivant</a>
+    {%- endif %}
+            </div></div><!-- span4 -->
+        </div><!-- row -->
+    </div><!-- container -->
+</div><!-- top-navbar-fixed -->
+<div class="container" style="margin-top: 50px; margin-bottom: 50px">
+    <div class="row">
+        <div class="span10 hyphenate text" lang="fr">
+{% if pagename == 'index' %}
+<div class="book-title">
+    <h1>{{ docstitle }}</h1>
+
+    <span>© Stéphane Laborde 2012 (GNU Public Licence V3)</span>
+</div>
+{%- endif %}
+            {% block body %} {% endblock %}
+        </div><!-- span10 -->
+    </div><!-- row -->
+</div><!-- container -->
+{% endblock %}
+{% block footer %}
+<!--
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+-->
+<script src="_static/Hyphenator.js" type="text/javascript" charset="utf-8"></script>
+<script src="_static/fr.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" charset="utf-8">
+Hyphenator.config({
+    displaytogglebox : true,
+    minwordlength : 4,
+    defaultlanguage: 'fr'
+});
+Hyphenator.run(); 
+</script>
+
+<div class="container footer">
+    <div class="row">
+        <div class="span6 left">
+<a href="TheorieRelative.pdf">Version PDF</a> |
+<a href="">Code source</a>
+        </div><!-- span6 -->
+        <div class="span4 right">
+© Stéphane Laborde 2012 (GNU Public Licence V3)
+        </div><!-- span4 -->
+    </div><!-- row -->
+</div><!-- container -->
+{% endblock %}

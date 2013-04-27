@@ -18,10 +18,12 @@ Repère : la zone monétaire
 Une zone économique ou zone monétaire constitue le repère de base de l'étude
 économique. Qu'est-ce qui la caractérise ?
 
-* L'espace où l'accord monétaire est manifeste * Le temps, c'est à dire,
-  l'espérance de vie moyenne des individus qui y vivent et y meurent.  * La
-  production individuelle ou collective (entreprenariale) de biens et de
-  services * L'échange de biens et de services entre individus ou groupements
+* L'espace où l'accord monétaire est manifeste 
+* Le temps, c'est à dire, l'espérance de vie moyenne des individus qui y 
+  vivent et y meurent.  
+* La production individuelle ou collective (entreprenariale) de biens et de
+  services.
+* L'échange de biens et de services entre individus ou groupements
   d'individus.
 
 Les individus ou groupements d'individus sont inévitablement amenés à échanger,

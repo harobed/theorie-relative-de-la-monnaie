@@ -313,7 +313,7 @@ valeur de référence gagée par ce billet pour l'année « a » en cours est 
 
 .. math::
 
-   Q(t) = Q(0) * (95%)^{a-d}
+   Q(t) = Q(0) * (95\%)^{a-d}
 
 La quantité de la valeur de référence échangeable diminuerait alors de moitié
 dans ce cas précis tous les 15 ans après la date d'émission d'un billet. Ce
