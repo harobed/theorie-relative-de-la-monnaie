@@ -44,7 +44,7 @@ Empire Romain
 
 Pas d'empire sans expansion monétaire ! L'universalité d'usage de la monnaie
 donne à celui qui en contrôle la production et la définition un formidable
-pouvoir d'accaparation illégitime quand le respect de l'éthique vis à vis de
+pouvoir d'accaparation illégitime quand le respect de l'éthique vis-à-vis de
 l'émission n'est pas au cœur des valeurs fondamentales.
 
 L'expansion de l'Empire Romain s'accompagne d'expansion monétaire régulièrement
@@ -56,8 +56,8 @@ Denier, Sesterce, Aureus, Antoninien, Valérien, Argenteus, Solidus, se
 succèdent. Composés de  bronze, cuivre, argent et or en fonction des conquêtes
 par la force, et de leurs butins, ou via l'esclavage dans des zones aurifères,
 comme la célèbre région de « Las Medulas » en Espagne, où selon les récits de
-Pline l'Ancien on peut estimer qu'entre 26 av JC et et le IIIe siècle les
-Romains ont extrait environ 1500 tonnes d'or.
+Pline l'Ancien on peut estimer qu'entre 26 av. JC et et le IIIe siècle les
+Romains ont extrait environ 1 500 tonnes d'or.
 
 Chacune de ces monnaies est émise à l'occasion d'une expansion de l'Empire, et
 de l'appropriation de ressources métalliques, remplaçant l'ancienne, puis est
@@ -80,8 +80,8 @@ lors de sa première émission dans le temps, cela n'empêche en rien l'expansio
 la contraction unitaire de la monnaie son expansion globale qui accompagne
 l'évolution économique.
 
-On peut résumer cela par le fait que 1 est bien plus petit par rapport à 1000
-que par rapport à 100, tandis que 1000 est bien plus grand que 100. Si notre
+On peut résumer cela par le fait que 1 est bien plus petit par rapport à 1 000
+que par rapport à 100, tandis que 1 000 est bien plus grand que 100. Si notre
 unité monétaire perd ainsi 10 % de sa capacité d'échange vis à vis d'une valeur
 donnée mais que la masse monétaire elle gagne globalement 15 % de capacité
 d'échange parce que l'expansion économique accompagne sa transformation, alors
@@ -98,7 +98,7 @@ l'inflation notamment lors de la période de l'Empire Espagnol (à partir du XV�
 siècle). La découverte des Amériques par Christophe Colomb (1492) va bouleverser
 les flux monétaires en Europe.
 
-Ainsi d'après Wikipedia dans « Relations économiques entre l'Amérique Espagnole
+Ainsi d'après Wikipédia dans « Relations économiques entre l'Amérique Espagnole
 et l'Europe » :
 
 « Les deux grandes prises de guerre faites dans l'Empire aztèque et surtout dans
@@ -106,18 +106,18 @@ l'Empire Inca rapportèrent d'importantes sommes d'argent à la couronne d'Espag
 et aux conquistadores. La rançon de l’empereur inca Atahualpa représente selon
 Pierre Chaunu un demi-siècle de production de métaux précieux en Europe. 
 
-Les mines rapporteront encore plus que les butins de guerre: d'abord par les
+Les mines rapporteront encore plus que les butins de guerre : d'abord par les
 quelques sources d'or à Cuba au début du XVIe siècle, puis les très grandes
-mines d'argent du Pérou du XVIIe siècle (la mine du Potosi) et plus au nord les
+mines d'argent du Pérou du XVIIe siècle (la mine du Potosi) et plus au Nord les
 mines mexicaines qui vont dominer la production du XVIIIe siècle en compagnie
-des mines d'Or du Brésil portugais (Minas Gerais).
+des mines d'or du Brésil portugais (Minas Gerais).
 
 C'est au cours des XVIIe et XVIIIe siècle que la production et l'arrivage de
 métaux précieux en Europe ont été les plus importants. »
 
 Or que constatons-nous ? Les métaux précieux perdent de la valeur au fil des
 siècles : si on s'inspire de l'historien Earl Hamilton sur l'Histoire des prix,
-le stock de 600 millions de pesos en 1500 permet de faire autant d'achat de blé
+le stock de 600 millions de pesos en 1 500 permet de faire autant d'achat de blé
 que le stock de 3 milliards en 1800.
 
 L'ajout de monnaie dans l'économie fait baisser la valeur de la monnaie. Ce qui
@@ -125,7 +125,7 @@ est vrai pour un gain de productivité d'un produit quelconque (la baisse de sa
 valeur monétaire à monnaie constante) est vrai aussi pour la monnaie quand bien
 même il s'agit d'un bien de référence : la quantité de marchandise qu'on peut
 acheter avec une quantité donnée de monnaie, dépend de la quantité de monnaie
-totale en circulation.	Ce n'est donc pas l'un ou l'autre, c'est les deux.
+totale en circulation. Ce n'est donc pas l'un ou l'autre, c'est les deux.
 L'augmentation de la productivité de la production de blé aurait dû en faire
 baisser le prix en monnaie courante, ici en or ou argent métal au fil des 3
 siècles. Toutefois l'ajout constant d'une quantité importante de monnaie qui
@@ -145,7 +145,7 @@ de monnaie en a donc stabilisé le prix facial.
 Ce raccourci ne tient pas compte des changements de comportement économique, de
 l'augmentation du nombre d'individus (qui réduit la part de monnaie / personne)
 des nouveaux biens et services demandant leur part de flux monétaire etc... Mais
-permet de bien comprendre le mécanisme à l'oeuvre dans la monnaie : le prix
+permet de bien comprendre le mécanisme à l'œuvre dans la monnaie : le prix
 local dépend fortement de la variation monétaire globale, ainsi que de sa
 densité de répartition. La densité se comprend ainsi : si le surplus de monnaie
 était resté aux Amériques, le prix du blé en Europe, selon le même raisonnement,
@@ -167,7 +167,7 @@ monnaie proposée.
 L'effondrement à éviter : thésaurisation et déflation
 =====================================================
 
-Etant donné son rôle monétaire grandissant l'or et l'argent métal allaient
+Étant donné son rôle monétaire grandissant l'or et l'argent métal allaient
 pousser à la recherche et au contrôle des gisements, ainsi qu'à la
 thésaurisation. En prêtant des monnaies limitées à un taux d'intérêt fixe,
 l'ensemble des prêteurs engagent l'ensemble des emprunteurs à rendre plus que ce
@@ -243,12 +243,12 @@ machines à mouvements perpétuels.
 Penser qu'une quantité de monnaie fixe serait un gage de la stabilité de la
 « valeur » de cette monnaie, c'est ne pas comprendre la Relativité de la mesure
 individuelle de la valeur, et ne pas tenir compte non plus du simple fait
-expérimental, qui démontre tout le long de l'histoire de la monnaie depuis 10
-000 ans, que d'une façon forcée ou consciemment acceptée l'expansion des masses
+expérimental, qui démontre tout le long de l'histoire de la monnaie depuis 10 000 
+ans, que d'une façon forcée ou consciemment acceptée l'expansion des masses
 monétaires est inévitable. En comprenant ce phénomène on transformera les
 changements cycliques de rattrapage brutalement vécus, souvent sources de
 guerres ou de révolutions, en simples périodes d'ajustements, acceptables parce
-que bien compris par tous, assis sur une éthique  systémique clairement établie,
+que bien compris par tous, assis sur une éthique systémique clairement établie,
 difficilement contestable, et surtout assurant toujours les libertés
 économiques.
 
@@ -258,7 +258,7 @@ John Locke 1632 - 1704
 [image]
 
 John Locke, philosophe précurseur des lumières met des limites et tempère le
-droit de propriété par la  « clause lockéenne » qui déclare que l'on ne peut
+droit de propriété par la « clause lockéenne » qui déclare que l'on ne peut
 s'approprier légitimement les ressources originelles sans qu'il en reste
 suffisamment et en assez bonne qualité pour autrui.
 
@@ -270,7 +270,7 @@ Les monnaies fiduciaires, premières monnaies expansionnistes
 
 Au XVIIIème siècle le « système de law » du nom de l'écossais « Jonh Law » est
 officiellement mis en place au sein d'une proto-banque centrale en France. Law
-avait observé les mécanismes monétaires fiduciaires déjà à l'oeuvre en Italie.
+avait observé les mécanismes monétaires fiduciaires déjà à l'œuvre en Italie.
 La France d'alors croule sous les dettes, et Louis XV donne le feu vert pour la
 mise en place du système.
 
@@ -300,14 +300,14 @@ permettrait de récupérer un taux inverse de valeur de référence dans le temp
 Si par exemple on émet des billets sur une vitesse de « c » gageant une valeur
 de référence possédée par l'émetteur, et qu'on annonce sur le billet qu'au
 moment de l'émission, le billet est échangeable contre une quantité  de la
-valeur de référence, alors le billet devrait noter qu'au temps « t »  la valeur
+valeur de référence, alors le billet devrait noter qu'au temps « t » la valeur
 de référence échangeable sera de :
 
 .. math::
 
    Q(t) = Q(0) * (1-c)^t
 
-Par exemple pour une croissance annoncée des billets émis de 5% / an, il
+Par exemple pour une croissance annoncée des billets émis de 5 % / an, il
 faudrait alors noter sur les billet émis à la date « d » que la quantité de
 valeur de référence gagée par ce billet pour l'année « a » en cours est de :
 
@@ -351,7 +351,7 @@ Thomas Paine 1737 – 1809
 ========================
 
 Thomas Paine, révolutionnaire Américain, puis Français, déclare dans « les
-droits de l'homme » publiés en 1792 l'assertion suivante :
+droits de l'Homme » publiés en 1792 l'assertion suivante :
 
 "Ceux qui ont quitté ce monde et ceux qui n'existent pas encore sont à la plus
 grande distance les uns des autres que l'imagination humaine puisse concevoir :
@@ -361,7 +361,7 @@ d'être et l'autre n'existe pas encore, et qui ne peuvent jamais se rencontrer
 dans ce monde, l'un soit autorisé à maîtriser l'autre jusqu'à la consommation
 des siècles ?"
 
-En 1795 trois ans après « les droits de l'homme » Thomas Paine, alors député
+En 1795 trois ans après « les droits de l'Homme » Thomas Paine, alors député
 Français, publie « Agrarian Justice » dans lequel il déclare qu'il ne peut y
 avoir de citoyens sans revenu et que chaque citoyen devant être représenté, il
 doit bénéficier d'un revenu universel de base lui permettant son existence
@@ -384,7 +384,7 @@ On a donc trouvé une parade : le levier bancaire limité. Le Banquier s'est vu
 octroyer une limite à son émission de monnaie fiduciaire dans la limite d'un
 ratio réglementé. Ce système permettait de redonner aux clients la valeur de
 référence dans une proportion suffisamment importante, pour ne pas briser la
-confiance. C'est historiquement le facteur de 10% de réserves environ qui a été
+confiance. C'est historiquement le facteur de 10 % de réserves environ qui a été
 retenu. Avec ce taux de réserve, un nombre suffisant de clients pouvaient
 récupérer leur valeur de référence, et la confiance restait valable dans le
 système... Uniquement pendant un temps plus long !
@@ -392,7 +392,7 @@ système... Uniquement pendant un temps plus long !
 Ce système toujours asymétrique n'empêche en rien la perte de confiance, et ne
 fait qu'en repousser l'échéance sur une plus longue période. L'effet de levier
 limité se retrouve bloqué lors de l'atteinte du « haut de bilan » lorsque les
-10% de réserves sont atteints, le système Bancaire se voit contraint de ne plus
+10 % de réserves sont atteints, le système Bancaire se voit contraint de ne plus
 émettre de nouveaux crédits, et c'est la faillite des derniers emprunteurs, ne
 voyant plus venir l'afflux de nouvelle monnaie permettant de payer dettes +
 intérêts.
@@ -413,7 +413,7 @@ cycles monétaires, leur permettant non seulement de contrôler l'économie dans
 son ensemble, mais aussi de s'assurer quelle que soit la valeur créée par
 ailleurs, une rente perpétuelle. C'est un fait : les émetteurs de monnaie
 asymétrique sont parmi les centres d'activités économiques les plus anciens avec
-les Etats, qui traversent sans broncher les « crises » successives.
+les États, qui traversent sans broncher les « crises » successives.
 
 Les producteurs éloignés du centre d'émission monétaire, ne comprenant pas
 comment la monnaie est émise, ne se rendent compte que tardivement des effets
@@ -423,7 +423,7 @@ propre activité.
 
 Quand ils s'en rendent compte, et souhaitent tous en même temps récupérer la
 « valeur de référence » il n'y a pas autant de stocks pour répondre à toutes les
-demandes (assurer 10% de réserve reste dans tous les cas une escroquerie, il est
+demandes (assurer 10 % de réserve reste dans tous les cas une escroquerie, il est
 impossible à l'ensemble des détenteurs de monnaie de récupérer cette « valeur »,
 et les premiers à se servir le sont au détriment des autres avant la faillite
 générale), et les faillites des Banques s'enchaînant, déstabilisent ensuite tout
@@ -463,9 +463,9 @@ L'impossibilité de fournir la valeur de référence à prix fixe au sein d'une
 monnaie en expansion se fait jour quand à demande égale la quantité de monnaie
 augmente. C'est un phénomène purement mécanique.
 
-De la même façon constater en 2010 une croissance de 7% / an sur 10 ans de la
+De la même façon constater en 2010 une croissance de 7 % / an sur 10 ans de la
 masse monétaire en euro, et entendre que la « politique monétaire » est de
-maintenir une « inflation à 2% » est si aberrant qu'il ne faudra pas s'étonner
+maintenir une « inflation à 2 % » est si aberrant qu'il ne faudra pas s'étonner
 de voir venir tôt ou tard un rattrapage violent, soit par à coups sur les
 valeurs les plus demandées, soit de façon progressive, mais il est mécaniquement
 impossible sur le long terme de faire cohabiter deux chiffres totalement
@@ -483,12 +483,12 @@ historique qui a vu un sommet en 1980.
 
 Le système des réserves fractionnaires ne résout toujours pas le problème de
 l'éthique quant à la monnaie, un centre d'émission à deux têtes, Banques et
-Etats, s'en arrogeant un monopole d'émission exclusif au détriment des
+États, s'en arrogeant un monopole d'émission exclusif au détriment des
 producteurs éloignés du centre.
 
 Il y a toujours dans ce système un effet de levier profitant à l'émetteur
 asymétrique de monnaie qui crée de la monnaie par du crédit arbitraire « gagé »,
-en cas de faillite de l'emprunteu, par un taux de par exemple 8% de réserve...
+en cas de faillite de l'emprunteu, par un taux de par exemple 8 % de réserve...
 constituée de … la même monnaie ! Ce changement est une manne pour le secteur
 financier, puisque ce type de réserve étant manipulable aisément, on peut
 toujours, dans les cas de crises, trouver des solutions, qui quoique éthiquement
@@ -508,13 +508,13 @@ Comment marche ce système de réserves fractionnaires du point de vue de
 l'économie ? Ce système crée des cycles artificiels, au bénéfice des émetteurs
 asymétriques :
 
-Etape 1 : le système financier se consolide, et sur la base de ses "fonds
+Étape 1 : le système financier se consolide, et sur la base de ses "fonds
 propres" va pouvoir émettre de la dette « € » à intérêts qui vient "irriguer
-l'économie" par un "effet de levier". Etape qui peut être longue et s'étaler sur
+l'économie" par un "effet de levier". Étape qui peut être longue et s'étaler sur
 10 ou 20 ans, la Banque Centrale assurant un contrôle de cette « spoliation
 réglementaire », à un taux suffisamment faible pour être supportable.
 
-Etape 2 : le système financier "se paye" par l'intérêt « I » de la dette ainsi
+Étape 2 : le système financier "se paye" par l'intérêt « I » de la dette ainsi
 émise (publique et privée). Les intérêts, et éventuellement le nominal des
 dettes, alimentent le "trou" ainsi constitué. Sauf que la dette émise n'a aucune
 raison de "revenir" à l'émetteur, puisque ayant dûment payé ceci ou cela, elle
@@ -522,10 +522,10 @@ se trouve en très grande partie thésaurisée par des épargnants, ou se retrou
 circulante au sein de micro-systèmes autonomes qui s'en servent à juste titre de
 moyen d'échange. Cette étape peut elle aussi durer de 10 à 20 ans...
 
-Etape 3 : du fait de l'impossibilité de retour de la dette émise avec les
+Étape 3 : du fait de l'impossibilité de retour de la dette émise avec les
 intérêts, le système financier, sur la base des faillites ainsi provoquées, se
-retrouve avec un bilan totalement instable, et en situation de faillite lui même
-(il est quand même censé équilibrer son bilan). Il s'effondre sur lui même. Il y
+retrouve avec un bilan totalement instable, et en situation de faillite lui-même
+(il est quand même censé équilibrer son bilan). Il s'effondre sur lui-même. Il y
 a alors une émission massive de nouvelle dette "en vue de se refaire", pour
 irriguer de nouveau une économie qui s'éloigne (inflation de la richesse
 réelle), mais qui manque cruellement de monnaie (crise dû à la rareté
@@ -552,7 +552,7 @@ Yoland Bresson, né en 1942
 Dans « l'après salariat » publié en 1984 l'économiste Français Yoland Bresson
 déclare : 
 
-« Il faut que la collectivité, par le biais de l'Etat, alloue périodiquement à
+« Il faut que la collectivité, par le biais de l'État, alloue périodiquement à
 tout citoyen économique, sans autre considération que celle de son existence,
 l'équivalent monétaire de la valeur de l'unité de temps ».
 
@@ -595,7 +595,7 @@ intéressantes, dont la plus aboutie techniquement est sans doute le projet Open
 Source « BitCoin » qui propose de gérer un système monétaire P2P « peer to
 peer », où la monnaie peut se développer de façon totalement décentralisée, via
 les liens de personne à personne et où l'ensemble des transactions est stocké
-sur l'ensemble du réseau dans un mode crypté.
+sur l'ensemble du réseau dans un mode chiffré.
 
 Le projet BitCoin est cependant plombé par une non compatibilité fondamentale
 avec la TRM. En effet la masse totale des Bitcoins est techniquement limitée à
@@ -668,7 +668,7 @@ distorsion de concurrence entre individus, en totale contradiction avec
 l'objectif affiché d'un marché libre et non faussé.
 
 Une monnaie commune n'est compatible avec les Droits de l'Homme que si son mode
-de création respecte l'égalité des hommes devant le jugement de toute valeur, et
+de création respecte l'égalité des Hommes devant le jugement de toute valeur, et
 donc leur droit égal devant la création monétaire. L'instauration d'une zone
 économique à monnaie commune sans convergence des revenus minimums individuels
 est une violation du Droit. Il s'agit de l'instauration d'une monnaie ne
@@ -697,7 +697,7 @@ TRM :
 * UD (n+1) = MAX { UD(n) ; Pud x M(n)/N(n) }
 
 Où « n » est le mois précédent. UD(n) est le Dividende Universel du dernier
-mois, Pud est le % constant de Dividende Universel minimal prédéfini, M(n) est
+mois, Pud est le pourcentage constant de Dividende Universel minimal prédéfini, M(n) est
 la masse monétaire du mois précédent, et N(n) le nombre de membres de la
 communauté monétaire.
 

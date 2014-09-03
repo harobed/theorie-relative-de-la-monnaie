@@ -29,12 +29,12 @@ respectifs.
    :align: center
    :width: 450px
    
-   Pour une petite unité de temps «dt» les individus X Y et Z co-existent, 
+   Pour une petite unité de temps « dt » les individus X Y et Z co-existent, 
    produisent et échangent des valeurs stables.
 
-Donc, non seulement «dans l'espace» (pour un temps d'évolution court «dt») les
+Donc, non seulement « dans l'espace » (pour un temps d'évolution court « dt ») les
 valeurs ne sont pas communément reconnues par les producteurs et font pourtant
-l'objet d'échanges circulaires, mais «dans le temps» les individus et les
+l'objet d'échanges circulaires, mais « dans le temps » les individus et les
 valeurs produites changent du tout au tout.
 
 Il n'en reste pas moins, que pour un temps suffisamment court, on constate une

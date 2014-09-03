@@ -12,8 +12,8 @@ La co-propriété Citoyenne de la Zone Monétaire
 ==============================================
 
 La Zone économique associée à une monnaie commune est une construction
-fondamentalement Citoyenne. Chaque Citoyen via son Etat respectif est
-co-propriétaire de la Zone (qui peut être réduite à un seul Etat). En démocratie
+fondamentalement Citoyenne. Chaque Citoyen via son État respectif est
+co-propriétaire de la Zone (qui peut être réduite à un seul État). En démocratie
 il est régulièrement convié à voter pour élire ses représentants directement ou
 indirectement. Il s'agit donc bien d'une entreprise de vie commune, où la
 monnaie est le ciment économique communément accepté et créé pour permettre que
@@ -133,7 +133,7 @@ La condition fondamentale de toute mesure est l'individu. En effet hors
 l'individu il n'est point de mesure de valeur. C'est le point minimum et
 suffisant pour toute mesure de valeur.
 
-L'homme est l'observateur de l'économie, autant que son acteur fondamental. Son
+L'Homme est l'observateur de l'économie, autant que son acteur fondamental. Son
 service et sa liberté de création en est l'objectif premier. C'est donc le seul
 véritable point de valorisation possible de toute monnaie qui se veut
 universellement utilisable partout et en tout temps où l'échange économique est
@@ -147,9 +147,9 @@ vie de chaque citoyen, c'est l'ensemble de l'économie qui investit dans chacune
 de ses composantes économiques fondamentales, le "risque" étant réparti dans la
 multitude et dans le temps.
 
-Il est par ailleurs hors de question que ce soient les hommes d'une génération
+Il est par ailleurs hors de question que ce soient les Hommes d'une génération
 donnée qui s'arrogent le droit de juger parmi leurs contemporains, de qui
-provient la valeur qu'utiliseront demain les générations à venir. A procéder
+provient la valeur qu'utiliseront demain les générations à venir. À procéder
 ainsi les générations précédentes, aveugles devant la réalité de l'incertitude
 quant à ce qui est valeur ou pas, ont laissé choir dans la misère plusieurs de
 leurs créateurs de valeur considérés aujourd'hui parmi les plus importants.
@@ -172,6 +172,6 @@ Universel :
 * http://blog.tcrouzet.com 
 * http://changaco.net/ 
 
-Par ailleurs l'article wikipedia sur « l'allocation universelle » regorge
+Par ailleurs l'article wikipédia sur « l'allocation universelle » regorge
 d'information, y compris sur les expériences (toutes réussies) des zones
 économiques ayant adopté un système monétaire proche du Dividende Universel.

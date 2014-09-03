@@ -37,7 +37,7 @@ l'asservissement sans fin des uns envers les autres.
 | B = système bancaire 
 | H = les hommes 
 
-Les intérêt dus par H à B sont de 5%/an. En (1) s'effectue l'émission d'une
+Les intérêt dus par H à B sont de 5 % / an. En (1) s'effectue l'émission d'une
 nouvelle « dette », consituant donc la « monnaie » par B qui crédite H. En (2)
 les 5 % sont remboursés, puis éventuellement dépensés en (3) et c'est ensuite la
 boucle sans fin.
@@ -48,14 +48,14 @@ boucle sans fin.
 | (4) B : -100 | +100 => H +100 | - 100 
 | (5) Retour en (2)
 
-Choix 1 : Boucle infinie. H est infiniment asservi à B qui gagne 5% / an sans
+Choix 1 : boucle infinie. H est infiniment asservi à B qui gagne 5 % / an sans
 travail, alors que H pour les récupérer doit travailler pour B. Le problème ici
 n'est pas tant L'intérêt "manquant" que H travaillant éternellement pour B. B
 n'a donc aucun intérêt (c'est le mot!) à ce que H rembourse véritablement cette
 dette. Il appellera alors « rembourser » le seul fait de lui payer cette rente
 éternelle.
 
-Choix 2 : Si B par contre ne dépense pas les 5 % par an mais les  stocke en
+Choix 2 : si B par contre ne dépense pas les 5 % par an mais les  stocke en
 sautant l'étape (3) (ou n'en dépense qu'une fraction pour stocker l'essentiel),
 alors il y a véritablement intérêt manquant dans l'économie. H se voit de plus
 en plus endetté et au bout de 20 boucles on se retrouve à la situation suivante
@@ -63,14 +63,14 @@ en plus endetté et au bout de 20 boucles on se retrouve à la situation suivant
 
 B : -100 | + 200 => H +000 | -100 
 
-A ce moment là (H) ne pourra plus rembourser lors du cycle suivant. Il fait
+À ce moment là (H) ne pourra plus rembourser lors du cycle suivant. Il fait
 faillite , défaut, ou une négociation a lieu. B est alors muni d'un stock énorme
 de monnaie, il bénéfice d'un pouvoir d'achat démultiplié sur une économie en
 déflation (car pendant tout ce temps l'économie aura subi la raréfaction
 progressive de la monnaie circulante). Il achète alors tout ce qu'il estime
 comme étant la base économique du prochain cycle au meilleur prix.
 
-Puis le cycle recommencera sur la base d'une nouvelle génération d'hommes. B
+Puis le cycle recommencera sur la base d'une nouvelle génération d'Hommes. B
 recrée suffisamment de monnaie pour son propre bénéfice, qu'il prêtera, à un
 niveau de création suffisamment élevé pour rendre l'ancienne masse monétaire
 négligeable. On ne part en effet jamais de 0 en (1), mais sur une masse
@@ -100,8 +100,8 @@ privées appelle du même sigle monétaire ce qui est sa propre émission de
 « dettes » comme si elles en partageaient la marque et qu'on utilise cette même
 marque, avec le même sigle, pour ce qui concerne l'émission de dettes au titre
 de la communauté politique. Imaginons-nous qu'une boisson puisse être nommée
-Coca Cola en étant produite indifféremment par General Motors ou Pepsi Cola et
-que l'Etat lui-même utilise le sigle Cocal Cola pour émettre une autre boisson
+Coca-Cola en étant produite indifféremment par General Motors ou Pepsi Cola et
+que l'État lui-même utilise le sigle Cocal Cola pour émettre une autre boisson
 encore et l'utilise comme référence pour assurer la comptabilité des échanges
 économiques. Quelle communauté politique accepterait cela ? C'est bien pourtant
 exactement ce que cette confusion a produit concernant la monnaie commune. Il ne
@@ -124,7 +124,7 @@ tout par un même sigle comptable.
 
 En conclusion l'argent « dette » est un système instituant une asymétrie
 profonde de la création monétaire, qui n'est contractuellement pas acceptable au
-sein des démocraties respectueuses des droits de l'homme. Logiquement la
+sein des démocraties respectueuses des droits de l'Homme. Logiquement la
 reconnaissance de l'égalité du jugement de toute valeur économique, implique la
 symétrie devant les règles de création d'une monnaie qui soit véritablement
 commune (ce qui ne signifie pas l'égalité devant les biens possédés, ni devant

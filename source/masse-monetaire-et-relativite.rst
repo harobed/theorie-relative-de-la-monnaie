@@ -26,7 +26,7 @@ relative à la densité spatiale de création de cette monnaie, sachant que cett
 densité devrait être équilibrée.
 
 Ainsi en France c'est parce que la création monétaire se fait essentiellement en
-Ile de France que l'économie y est la plus florissante en apparence, et que les
+Île de France que l'économie y est la plus florissante en apparence, et que les
 flux de population s'y concentrent. La même création monétaire inversée réalisée
 à Toulouse pendant une même période de 50 ans produirait sans aucun doute un
 résultat similaire (toujours au détriment des autres villes).
@@ -62,13 +62,13 @@ pour la mesurer contrairement à toute autre estimation.
 Le graphique suivant montre la Masse monétaire totale M3 composée de M1, (M2-M1)
 et (M3-M2) de la zone euro de 1997 à octobre 2012 en quantité ainsi qu'en
 croissance sur 12 mois (ordonnée en % à droite). La croissance des euros de 1997
-à 2007 a atteint 8% / an de moyenne pour une répartition au sein des 330
+à 2007 a atteint 8 % / an de moyenne pour une répartition au sein des 330
 millions de citoyens de la zone économique du surplus de monnaie commune non
 communiquée et certainement non-dense.
 
 [image]
 
-Cette création monétaire bénéficie essentiellement aux Etats et aux grandes
+Cette création monétaire bénéficie essentiellement aux États et aux grandes
 entreprises quand bien même ils produisent le plus souvent avec des processus
 dépassés et extrêmement coûteux, des valeurs désuètes et sans intérêt pour 90%
 de la population. Ce système ne profite qu'à quelques individus privilégiés, et
@@ -118,14 +118,14 @@ d'accepter une telle méthode, basée sur des valeurs « absolue » quand bien
 elles seraient revues et actualisées, car elles seront toujours sujettes à des
 choix arbitraires.
 
-Le graphique suivant représente l'évolution d'un salaire « fixe » de 1500 euros
+Le graphique suivant représente l'évolution d'un salaire « fixe » de 1 500 euros
 rapporté à la masse monétaire Euro (exprimée en milliards d'€) de 2000 à 2010,
 et donc du potentiel d'achat.
 
-Le potentiel d'achat d'un salaire fixe a baissé de plus de 50% entre 2000 et
+Le potentiel d'achat d'un salaire fixe a baissé de plus de 50 % entre 2000 et
 2010. Autrement dit il est probable que les prix d'une majorité de biens
 « relativement stables » en terme de demande entre ces deux dates aient
-augmenté de plus de 100% sur la même période. Il est fort étonnant de voir
+augmenté de plus de 100 % sur la même période. Il est fort étonnant de voir
 à quel point le mensonge quant à des mesures pourtant vérifiables peut se
 propager au sein de démocraties où le pouvoir médiatique est censé
 représenter la garantie de la transparence.

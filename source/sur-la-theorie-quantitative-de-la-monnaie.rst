@@ -8,7 +8,7 @@ La définition générale du champ de valeur permet de retrouver des résultats 
 
    dJx = dMx - Px * dCx + dMfx - Pfx * Cfx
 
-Dans le cas d'une économie pseudo-isolée en équilibre et  à création monétaire locale nulle, nous avons alors :
+Dans le cas d'une économie pseudo-isolée en équilibre et à création monétaire locale nulle, nous avons alors :
 
 .. math::
 
@@ -55,7 +55,7 @@ concerne que ses acteurs, et n'est stable ni dans le temps, ni dans l'espace
 Si tant est que la monnaie est créée de façon asymétrique, non dense, la valeur
 se stocke ou s'échange alors massivement dans une autre partie de l'économie
 sans être monétisée (cas des creux), ou bien la création d'une nouvelle monnaie
-locale devient nécessaire  (création de SEL).
+locale devient nécessaire (création de SEL).
 
 S'agissant d'un phénomène d'accumulation, la sortie de cette impasse peut se
 faire soit via l'hyperinflation des valeurs sous-monétisées, possible par
@@ -82,7 +82,7 @@ Si donc on reprend les axiomes de la Théorie Quantitative de la Monnaie, qui
 définit la monnaie comme :
 
 * Unité de compte
-* Intermédiaire d'Echange
+* Intermédiaire d'Échange
 * Réserve de Valeur
 
 Le paradigme de la TRM qui elle la définit selon les quatre libertés de
@@ -92,7 +92,7 @@ intermédiaire d'échange. La monnaie ne peut être compatible avec ces deux
 notions à la fois. Seule une petite période de temps permet de considérer une
 valeur stable à la monnaie, comme pour tout autre bien ou service économique.
 Son universalité en tant qu'intermédiaire d'échange dans l'espace et le temps ne
-peut être assurée vis à vis de cette valeur pseudo-stable que via une émission
+peut être assurée vis-à-vis de cette valeur pseudo-stable que via une émission
 stable.
 
 C'est la preuve expérimentale historique qui valide la TRM contre la TQM. Aucune

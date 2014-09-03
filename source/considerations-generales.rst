@@ -88,7 +88,7 @@ $ à 1200 $ / mois / Citoyen aux USA. Ces données de 2010/2012 seront évidemme
 la masse monétaire.
 
 
-A propos de la valeur
+À propos de la valeur
 =====================
 
 L'argument selon lequel l'inflation de la masse monétaire serait contraire à
@@ -132,17 +132,17 @@ C'est donc selon la quantité de monnaie possédée qu'on peut estimer être gag
 monétairement ou pas.
 
 Exemple numérique : A possède 50, B possède 200 il y a d'autres individus dans
-cette communauté monétaire et la masse monétaire est de 1000, pour une
+cette communauté monétaire et la masse monétaire est de 1 000, pour une
 communauté de 10 membres. Admettons une espérance de vie telle que le DU soit de
 5 % / an.
 
-Le Dividende Universel annuel alloué à chacun sera de 5% x 1000 / 10 = 5. A aura
-alors 55, et B 205. Localement A a bénéficié de 5/50 = 10% de monnaie
-supplémentaire, et B de seulement 5/200 = 2,5%. Globalement  A possède désormais
-par ailleurs 55 / 1050 = 5,24% de la masse monétaire, au lieu de 50 / 1000 = 5%
-et B possède 205/1050 =  19,52% de la masse monétaire contre 200 / 1000 = 20%
+Le Dividende Universel annuel alloué à chacun sera de 5 % x 1000 / 10 = 5. A aura
+alors 55, et B 205. Localement A a bénéficié de 5/50 = 10 % de monnaie
+supplémentaire, et B de seulement 5/200 = 2,5 %. Globalement  A possède désormais
+par ailleurs 55 / 1050 = 5,24 % de la masse monétaire, au lieu de 50 / 1000 = 5 %
+et B possède 205 / 1050 =  19,52 % de la masse monétaire contre 200 / 1000 = 20 %
 avant la distribution. B a vu sa part monétaire diminuer car il possédait avant
-la distribution plus de 1000/10 = 100 de monnaie, tandis que pour A, en dessous
+la distribution plus de 1000 / 10 = 100 de monnaie, tandis que pour A, en dessous
 de cette moyenne, c'est l'inverse qui se produit.
 
 Mais par ailleurs si X possède plus de M/N de monnaie, donc plus de monnaie que
@@ -185,7 +185,7 @@ Aussi il n'existe aucune certitude possible quant à ce qu'il conviendrait de
 faire dans le cadre de la « protection » de son capital, qui est donc ici aussi
 une valeur purement relative (le douanier Rousseau aurait été étonné de
 connaître l'estimation de son capital faite en 2010, et Maxwel encore plus s'il
-avait gardé des «droits de propriété intellectuelle» sur sa fabuleuse théorie de
+avait gardé des « droits de propriété intellectuelle » sur sa fabuleuse théorie de
 l'électromagnétisme).
 
 Aussi le Dividende Universel ne préjuge absolument pas, en terme de gain ou de
@@ -193,7 +193,7 @@ perte personnels,  de la « valeur ». Ce sont les choix individuels qui
 déterminent l'impact que pourra avoir l'augmentation de la masse monétaire sur
 le panier individuel de valeurs.
 
-A propos de la symétrie de la valeur apportée par les individus
+À propos de la symétrie de la valeur apportée par les individus
 ===============================================================
 
 Il convient de bien comprendre l'argument de la symétrie dans toutes ses

@@ -83,14 +83,14 @@ devra tôt ou tard étendre l'expansion de sa masse monétaire à tout son espac
 et devra donc avoir de forts taux de croissance de rattrapage spatial.
 
 Nous comprenons là le problème Chinois en 2010. Puisque une faible partie des
-1400 millions d'habitants bénéficie d'échanges monétisés, la masse monétaire
+1 400 millions d'habitants bénéficie d'échanges monétisés, la masse monétaire
 doit croître fortement dans tout le reste de l'économie pour la monétiser dans
 son ensemble. Il s'agit pour des centaines de millions d'être humains d'avoir
 accès à l'outil monétaire pour développer leurs échanges, ce qui va jouer sur la
 valeur de Na qui représente le nombre de citoyens monétisés.
 
 Par contre du fait du rapport Na/Nb qui sera, en fin de monétisation complète de
-sa population, très élevé pour elle par rapport à l'Europe et aux Etats-Unis, la
+sa population, très élevé pour elle par rapport à l'Europe et aux États-Unis, la
 masse monétaire chinoise « Ma » pourrait augmenter au même rythme que Na (nombre
 de citoyens monétisés), sans que cela joue sur la valeur de change fondamentale
 de sa monnaie.
@@ -104,7 +104,7 @@ croissance monétaire dans le temps, pour jouer sur le rapport Mb/Ma.
 Nous sommes donc ici en face de deux politiques d'expansion de rattrapage vis à
 vis de l'équilibre nécessaire, dans deux dimensions complémentaires : spatiale
 du côté Chinois (il ne faudrait pas non plus oublier le problème similaire qui
-se pose aux 1200 millions d'Indiens sous-monétisés eux aussi), et temporelle
+se pose aux 1 200 millions d'Indiens sous-monétisés eux aussi), et temporelle
 pour les USA et l'Europe. Or le rattrapage temporel en Europe et aux USA
 nécessite la mise en place d'un Dividende Universel sur lequel faire jouer jouer
 la hauteur de la densité de la masse monétaire.

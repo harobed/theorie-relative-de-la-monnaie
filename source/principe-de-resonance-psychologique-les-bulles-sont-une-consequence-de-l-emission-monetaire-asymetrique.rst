@@ -39,7 +39,7 @@ et selon donc, pour cette valeur spécifique :
 
 Cette « croissance » atteint un maximum limité soit par le contrôle de la
 quantité globale d'expansion monétaire par les autorités, soit par la saturation
-du marché. A ce moment-là, la valeur commence à se stabiliser globalement, voire
+du marché. À ce moment-là, la valeur commence à se stabiliser globalement, voire
 à chuter. La chute sera en rapport avec l'excès de monnaie  investi dans le
 secteur, qui aura produit un excès de production non solvable.
 
@@ -72,11 +72,11 @@ de crédits.
 
 c) L'émetteur de crédits arbitraires cesse son injection, soit parce qu'il
 crédite une autre valeur de son choix, soit parce qu'il arrive en « haut de
-bilan », c'est à dire qu'il est à maximum d'émission de crédits possible (il a
+bilan », c'est-à-dire qu'il est à maximum d'émission de crédits possible (il a
 atteint son effet de levier maximum permis) ce qui est le cas des grandes crises
 systémiques (l'effet de levier est globalement atteint par l'ensemble du
 système, et on ne peut plus légalement créer de monnaie supplémentaire via cet
-avantage). A ce moment là la force de remboursement de l'intérêt et des crédits
+avantage). À ce moment là la force de remboursement de l'intérêt et des crédits
 fait « exploser la bulle » qui ne peut plus se nourrir de l'injection de
 nouveaux crédits.
 
