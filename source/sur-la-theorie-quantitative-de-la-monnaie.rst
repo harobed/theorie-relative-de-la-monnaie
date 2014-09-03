@@ -8,7 +8,7 @@ La définition générale du champ de valeur permet de retrouver des résultats 
 
    dJx = dMx - Px * dCx + dMfx - Pfx * Cfx
 
-Dans le cas d'une économie pseudo-isolée en équilibre e  à création monétaire locale nulle, nous avons alors :
+Dans le cas d'une économie pseudo-isolée en équilibre et à création monétaire locale nulle, nous avons alors :
 
 .. math::
 
