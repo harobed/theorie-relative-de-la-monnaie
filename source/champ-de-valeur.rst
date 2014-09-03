@@ -2,7 +2,7 @@
 Champ de valeur
 ===============
 
-Equation fondamentale du champ de valeur
+Équation fondamentale du champ de valeur
 ========================================
 
 Au regard de ce qui a été précédemment établi, nous avons en tout point « x » de
@@ -46,7 +46,7 @@ représenté par une bosse, et une zone où il y a une production de valeur
 associée à une rareté monétaire représentée par un creux, le reste de la zone
 étant équilibré.
 
-Etant donné que la valeur est relative à l'observateur qui la mesure, (aux
+Étant donné que la valeur est relative à l'observateur qui la mesure, (aux
 acteurs qui l'échangent), on parlera de façon plus exacte de « valeur
 potentielle locale de la production » et non pas de valeur au sens absolu qui
 serait quelque chose de reconnu par tous les acteurs de l'économie, ce qui n'a
@@ -107,7 +107,7 @@ centrale.
 
 Les SEL se créent la plupart du temps sur un modèle symétrique de crédit mutuel
 et ne font donc pas apparaître de distorsions quant à la monnaie créée au sein
-de la communauté économique. Etant créés sur la base d'une monnaie
+de la communauté économique. Étant créés sur la base d'une monnaie
 complémentaire, leurs échanges ne sont pas officiellement comptabilisés dans
 l'économie officielle, et c'est une part considérable du PIB qui échappe ainsi à
 la valorisation de l'économie, du fait de la non-densité intrinsèque aux
@@ -234,7 +234,7 @@ des guerres.
 
 Le système de création monétaire choisi (ou imposé) détermine donc le type de
 développement économique qui s'en suivra ainsi que la forme spatio-temporelle du
-champ de valeur : Une fluctuation continue sans interruption pour un système à
+champ de valeur : une fluctuation continue sans interruption pour un système à
 Dividende Universel, et des pyramides de monnaie centrale à effondrement
 cycliques (bulles monétaires, appelées encore bulles spéculatives) pour les
 systèmes à émission asymétrique.

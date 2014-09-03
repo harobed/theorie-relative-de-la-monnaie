@@ -100,7 +100,7 @@ Ce qui s'écrit aussi en puissance de (1+c) sous la forme :
 
 Concrètement cela signifie donc que pour les solutions cohérentes avec les trois
 libertés économiques et le principe de relativité, chacun des N(t) acteurs de la
-zone économique existants à une date « t »est donc émetteur d'une même part
+zone économique existants à une date « t » est donc émetteur d'une même part
 relative de monnaie, un « Dividende Universel » (DU) qui vaut :
 
 .. math::
@@ -156,7 +156,7 @@ Il est possible de trouver une relation fondamentale entre le Dividende
 Universel « c » et l'espérance de vie. En effet, considérons tout d'abord pour
 simplifier une zone économique composée de N(t) membres avec N(t) stable dans le
 temps  et ayant une espérance de vie moyenne « ev ». Observons tout d'abord
-comment la génération existante se positionne vis à vis du flux entre les
+comment la génération existante se positionne vis-à-vis du flux entre les
 générations déjà mortes et celles qui viennent à naître.
 
 Si l'on imagine maintenant qu'une unité de temps passe, on doit aussi voir
@@ -226,7 +226,7 @@ centrale :
 
    c = \frac{ln(ev/2)}{(ev/2)}
 
-A noter que le choix de l'unité de temps pour le calcul n'est pas neutre, car il
+À noter que le choix de l'unité de temps pour le calcul n'est pas neutre, car il
 est en rapport avec le rythme du déploiement du dividende universel sous sa
 forme quantitative dans l'économie. Et ce rythme n'est pas neutre
 économiquement. Nous choisissons donc l'année comme unité économique
@@ -237,7 +237,7 @@ aussi des congés.
 [image]
 
 On pourra remarquer que la monnaie étant quantitative sous sa forme utile,
-l'aspect continu n'étant qu'apparent (cf l'analogie de la fontaine), le
+l'aspect continu n'étant qu'apparent (cf. l'analogie de la fontaine), le
 Dividende Universel calculé sera bien finalement quantitatif. Le fait donc
 d'avoir des bornes de valeurs relatives est parfaitement adapté à un DU stable
 quantitativement et qui n'est recalculé et revalorisé que lorsqu'il « menace »
@@ -272,7 +272,7 @@ compatibles avec le principe de relativité et les trois libertés économiques�
 On pourrait aussi rajouter pour préciser mieux encore qu'un dividende universel
 qui existerait mais qui serait trop faible ou trop fort, donc en dehors des
 bornes ainsi définies, sur une trop longue période, avantageant ainsi une
-génération sur une autre (entrante ou sortante, peu importe!) ne serait pas non
+génération sur une autre (entrante ou sortante, peu importe !) ne serait pas non
 plus compatible avec la TRM.
 
 Ce dernier point est fondamental car la tentation est grande pour les vivants de

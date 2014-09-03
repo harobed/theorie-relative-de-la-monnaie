@@ -11,7 +11,7 @@ les référentiels » (référentiels inertiels ou non). On l'appelle aussi pri
 de symétrie, ou encore covariance. Le principe ne signifie pas que les
 observateurs mesurent la même chose, mais que les Lois physiques que l'on
 établit doivent, suite à leur transformation en passant d'un référentiel à
-l'autre, avoir la même forme générale. Aussi  les mesures sont bien différentes
+l'autre, avoir la même forme générale. Aussi les mesures sont bien différentes
 d'un observateur à l'autre, la seule mesure invariante étant celle de la vitesse
 de la lumière.
 

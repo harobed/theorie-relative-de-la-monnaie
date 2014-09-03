@@ -11,7 +11,7 @@ Approche simple
 
 La première approche consiste à installer un Dividende Universel initial
 supérieur au taux cible « c » qu'on laissera inchangé le temps que le taux de
-croissance de la masse monétaire atteigne « c ». A partir de ce moment-là, on
+croissance de la masse monétaire atteigne « c ». À partir de ce moment-là, on
 augmente régulièrement le Dividende Universel suivant le taux  «c ». Cette
 approche est particulièrement adaptée au cas d'une monnaie préexistante qui mute
 en Dividende Universel.
@@ -53,8 +53,8 @@ Le revenu minimum constaté en France ou en Allemagne est environ en moyenne de
 moins si par ailleurs le citoyen s'aventure à monétiser une activité déclarée).
 
 Si la zone euro déclarait brutalement ce niveau de DU pour les 330 millions de
-citoyens, cela reviendrait à un taux de 18% de la masse monétaire, qui, à DU
-fixe, atteindrait le taux de croissance optimal de 5% de la masse monétaire en
+citoyens, cela reviendrait à un taux de 18 % de la masse monétaire, qui, à DU
+fixe, atteindrait le taux de croissance optimal de 5 % de la masse monétaire en
 15 ans.
 
 Le DU lui même suivrait alors cette évolution :
@@ -72,7 +72,7 @@ mois / citoyen pour les citoyens privés de revenu minimum, afin de le faire
 converger vers une cible de 450 € / mois / citoyen dans toute la zone.
 
 En se basant sur la croissance asymétrique forte de la masse monétaire euro de
-8% / an constatée de 2000 à 2007 (Question de Droit : pourquoi a-t-on permis à
+8 % / an constatée de 2000 à 2007 (Question de Droit : pourquoi a-t-on permis à
 quelques-uns de bénéficier de façon exclusive de la croissance de la masse
 totale de monnaie COMMUNE au détriment des autres citoyens ?), on atteindrait
 alors très rapidement cet objectif car :
@@ -112,21 +112,21 @@ la création monétaire associée, alors la demande du créancier est de rendre 
 de monnaie qu'il n'en existe localement. Ces cas sont des conditions de faillite
 forcée.
 
-Par exemple en France en 2010, quoique la masse monétaire ait augmenté de 8% /
-an de 2000 à 2007, (7% entre 2000 et 2010 du fait de la contraction 2007 -
-2010), le taux de 22% / an d'intérêt est un taux légal, applicable en sus aux
+Par exemple en France en 2010, quoique la masse monétaire ait augmenté de 8 % /
+an de 2000 à 2007, (7 % entre 2000 et 2010 du fait de la contraction 2007 -
+2010), le taux de 22 % / an d'intérêt est un taux légal, applicable en sus aux
 citoyens les plus éloignés de la création monétaire, donc les moins susceptibles
 de pouvoir rembourser. C'est la condition suffisante pour provoquer des
 faillites personnelles.
 
-Mais par ailleurs prenons le cas d'un taux de croissance monétaire global de 7%
+Mais par ailleurs prenons le cas d'un taux de croissance monétaire global de 7 %
 / an, avec cette monnaie supplémentaire qui n'est pas symétriquement allouée au
 sein de la zone, mais uniquement au bénéfice des émetteurs centraux et de leurs
 affiliés au centre de la pyramide de Ponzi globale. Un taux d'intérêt local de
-5%, pourtant inférieur au taux de croissance global, sera, dans ce lieu éloigné
+5 %, pourtant inférieur au taux de croissance global, sera, dans ce lieu éloigné
 de l'émission, supérieur au taux local de croissance monétaire qui ne sera par
-exemple que de 1%. Alors il s'agit là à partir du moment de l'acceptation de ce
-prêt, d'un cas de décroissance locale de la masse monétaire de 5% - 1% = 4% /
+exemple que de 1 %. Alors il s'agit là à partir du moment de l'acceptation de ce
+prêt, d'un cas de décroissance locale de la masse monétaire de 5 % - 1 % = 4 % /
 an, conduisant à une déflation locale, et donc à des faillites forcées,
 indépendamment de toute notion de production et d'échange de valeur.
 
@@ -148,7 +148,7 @@ les conditions générales permettent d'en payer capital et intérêts. Si le
 le taux d'intérêt au-delà des conditions maximales requises, mais de prêter
 moins ou pas du tout.
 
-A minima ce devrait être aussi le cas dans tout système monétaire. Le taux
+À minima ce devrait être aussi le cas dans tout système monétaire. Le taux
 d'intérêt d'un prêt ne saurait excéder légalement le taux de croissance de la
 masse monétaire. Sans cela il est clair que les conditions ne sont pas remplies
 pour être certain qu'il est possible de rembourser un prêt à taux supérieur, et
@@ -162,13 +162,13 @@ Réflexion sur l'impôt
 
 Le même raisonnement que sur le prêt à intérêts, implique que l'impôt ne peut
 globalement PAS excéder le taux de croissance de la masse monétaire, sauf à
-donner à l'Etat une prérogative intenable sur l'initiative individuelle.
+donner à l'État une prérogative intenable sur l'initiative individuelle.
 
 Cela signifie que dans une économie à Dividende Universel les représentants de
 la collectivité, pour financer des projets collectifs par l'impôt doivent faire
 leur estimation en se basant sur le nombre d'individus gérés, et connaissant le
 facteur de croissance monétaire « c » n'en prenne au maximum qu'une fraction
-globale la plus faible possible « f *c ». Pour le reste l'Etat devrait se
+globale la plus faible possible « f *c ». Pour le reste l'État devrait se
 financer par la vente libre des biens et services qu'il produit, et ne pas
 s'endetter au-delà du raisonnable étant donné le flux normal de revenus qu'il
 est censé obtenir.

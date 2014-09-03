@@ -19,7 +19,7 @@ Une zone économique ou zone monétaire constitue le repère de base de l'étude
 économique. Qu'est-ce qui la caractérise ?
 
 * L'espace où l'accord monétaire est manifeste 
-* Le temps, c'est à dire, l'espérance de vie moyenne des individus qui y 
+* Le temps, c'est-à-dire, l'espérance de vie moyenne des individus qui y 
   vivent et y meurent.  
 * La production individuelle ou collective (entreprenariale) de biens et de
   services.
@@ -45,7 +45,7 @@ de vie limitée.
 Il s'agit donc d'une trame spatio-temporelle en transformation continue, non
 statique, discrète, où chaque point d'espace-temps est créé à une date
 déterminée (naissance d'un individu) et a une durée de vie limitée qui, en
-moyenne, correspond à l'espérance de vie que l'on nommera« ev » de la zone
+moyenne, correspond à l'espérance de vie que l'on nommera « ev » de la zone
 économique considérée.
 
 Par ailleurs et c'est la définition fondamentale de la Relativité en économie,
@@ -85,7 +85,7 @@ et ne s'en porte pas moins bien. Par ailleurs Z qui observerait cet échange
 pourrait tout à fait juger selon son propre référentiel que Vx et Vy n'ont pas
 de valeur.
 
-Rappelons ici combien les hommes ne sont fondamentalement pas d'accord tout le
+Rappelons ici combien les Hommes ne sont fondamentalement pas d'accord tout le
 long de leur histoire sur la valeur respective de leurs biens. Aussi l'égalité
 des valeurs échangées n'est pas un critère économique indépendant de
 l'observateur, ce qui se constate aussi par les actions de dons ou de taxations
@@ -114,7 +114,7 @@ proposé.
 
 On peut sans hésiter déclarer que l'imposition d'usage d'une monnaie non
 contractuelle (ne faisant pas l'objet d'une acceptation volontaire) constitue un
-acte contraire aux droits de l'homme de disposer de sa vie pour sa part
+acte contraire aux droits de l'Homme de disposer de sa vie pour sa part
 économique et une violation des principes constitutionnels de liberté et
 d'égalité.
 

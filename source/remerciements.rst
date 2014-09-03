@@ -10,7 +10,7 @@ ceux qui directement ou indirectement ont permis l'élaboration de cette version
 
 Un remerciement particulier à Luc Fievet, producteur de l'émission de radio
 libre « symbiose », graphiste à ses heures et qui a produit pour la version 2.0
-de magnifiques graphiques illustratifs sous licence GPL V3 et toujours présents
+de magnifiques graphiques illustratifs sous licence GNU GPL v.3 et toujours présents
 dans cette version 2.718, réalisés avec le logiciel libre Blender.
 
 Une pensée spéciale à Jean-Jacques Brucker et Canercandan, développeurs de
